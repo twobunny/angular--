@@ -1,6 +1,6 @@
 # angular-pit
 
-##angular
+## angular
 
 1. 环境搭建
 2. 模板语法
